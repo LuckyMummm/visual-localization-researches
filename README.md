@@ -28,7 +28,4 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :heavy_check_mark: **[Wide area localization on mobile phones]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf)  ISMAR, 2009
 
-
-:heavy_check_mark: **[Wide area localization on mobile phones]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf)  ISMAR, 2009
-
 <h1 id="traditional">Traditional methods</h1>
