@@ -22,8 +22,6 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 
 
-
-
 <h1 id="realtime">Real-Time Devices</h1>
 
 :heavy_check_mark: **[Wide area localization on mobile phones]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf)  ISMAR, 2009
