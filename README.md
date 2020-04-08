@@ -33,7 +33,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :radio_button: **[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]** [[Paper]](https://www.cs.unc.edu/~jtprice/papers/accv_2016_schoenberger.pdf)  ACCV, 2016
 
-
+:radio_button: **[Improving image-based localization by active correspondence search]** [[Paper]https://graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf]()  ECCV, 2012
 
 <h1 id="Pose">Pose Estimation</h1>
 
