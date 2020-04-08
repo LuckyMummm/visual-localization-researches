@@ -2,7 +2,7 @@
 
 ## 背景 && TL;DR
 
-- **作者：**Arth C, Wagner D, Klopschitz M, Irschara A, Schmalstieg D
+- **作者：** Arth C, Wagner D, Klopschitz M, Irschara A, Schmalstieg D
 - **会议/期刊**：ISMAR, 2009
 - **TL;DR：** 先重建再对输入图片位姿估计，并且重建的数据存储采用了PVS(potentially visible sets)。（应该是第一篇在wide area做重定位思路的文章）
 
