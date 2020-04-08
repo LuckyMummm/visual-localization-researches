@@ -27,15 +27,21 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :heavy_check_mark: **[Real-time self-localization from panoramic images on mobile devices]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf)  ISMAR, 2011
 
+:heavy_check_mark: **[Parallel Tracking and Mapping on a Camera Phone]** [[Paper]]  ISMAR, 2009
+
+:heavy_check_mark: **[Pose Tracking from Natural Features on Mobile Phones]** [[Paper]]  ISMAR, 2008
+
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 :radio_button: **[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]** [[Paper]](https://www.cs.unc.edu/~jtprice/papers/accv_2016_schoenberger.pdf)  ACCV, 2016
 
-:radio_button: **[Improving image-based localization by active correspondence search]** [[Paper]https://graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf]()  ECCV, 2012
+:radio_button: **[Improving image-based localization by active correspondence search]**[[Paper]](https://graphics.rwthaachen.de/media/papers/sattler_eccv12_preprint_1.pdf])  ECCV, 2012
+
+
 
 <h1 id="Pose">Pose Estimation</h1>
 
-:radio_button: **[**Fast image-based localization using direct 2Dto-3D matching**]** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6162870)  ICCV, 2011
+:radio_button: **[Fast image-based localization using direct 2Dto-3D matching]** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6162870)  ICCV, 2011
 
