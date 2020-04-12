@@ -11,8 +11,8 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 | Section | # of Papers |
 |:---:|:---:|
 |[Survey papers](#Surveys) | 1|
-|[Real-Time Devices](#realtime) | 1 |
-|[Retrieval methods](#Retrieval) | 1 |
+|[Real-Time Devices](#realtime) | 4 |
+|[Retrieval methods](#Retrieval) | 2 |
 |[Pose Estimation](#Pose) | 1 |
 
 <h1 id="Surveys">Survey papers</h1>
@@ -27,9 +27,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :heavy_check_mark: **[Real-time self-localization from panoramic images on mobile devices]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf) Clemens Arth. ISMAR, 2011
 
-:heavy_check_mark: **[Parallel Tracking and Mapping on a Camera Phone]** [[Paper]]  ISMAR, 2009
+:radio_button: **[Parallel Tracking and Mapping on a Camera Phone]** [[Paper]]  ISMAR, 2009
 
-:heavy_check_mark: **[Pose Tracking from Natural Features on Mobile Phones]** [[Paper]]  ISMAR, 2008
+:radio_button: **[Pose Tracking from Natural Features on Mobile Phones]** [[Paper]]  ISMAR, 2008
 
 
 
