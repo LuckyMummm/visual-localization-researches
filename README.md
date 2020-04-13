@@ -33,8 +33,6 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :radio_button: **[Scalable 6-DOF Localization on Mobile Devices]** [[Paper]](https://www.graphics.rwth-aachen.de/media/papers/ECCV14_preprint_0XcmhCx.pdf) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sven Middelberg, Torsten Sattler. ECCV, 2014
 
-:heavy_check_mark: **[6D dynamic camera relocalization from single reference image]** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Feng_6D_Dynamic_Camera_CVPR_2016_paper.pdf) Feng W. CVPR 2016
-
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
