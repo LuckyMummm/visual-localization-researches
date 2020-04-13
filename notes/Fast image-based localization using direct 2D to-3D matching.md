@@ -39,7 +39,7 @@
 
 **这篇文章主要参考了两篇文献，对于retrieval还有挺有参考价值**
 
-  - A. Irschara, C. Zach, J.-M. Frahm, and H. Bischof. From structure-from-motion point clouds to fast location recognition. In CVPR, 2009、
+  - A. Irschara, C. Zach, J.-M. Frahm, and H. Bischof. From structure-from-motion point clouds to fast location recognition. In CVPR, 2009
 
   - Y. Li, N. Snavely, and D. P. Huttenlocher. Location recognition using prioritized feature matching. In ECCV, 2010
 
