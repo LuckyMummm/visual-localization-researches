@@ -12,8 +12,8 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 |:---:|:---:|
 |[Survey papers](#Surveys) | 1|
 |[Real-Time Devices](#realtime) | 4 |
-|[Retrieval methods](#Retrieval) | 2 |
-|[Pose Estimation](#Pose) | 1 |
+|[Retrieval methods](#Retrieval) | 3 |
+|[Pose Estimation](#Pose) | 0 |
 
 <h1 id="Surveys">Survey papers</h1>
 
@@ -35,6 +35,8 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="Retrieval">Retrieval Methods</h1>
 
+:heavy_check_mark: **[Fast image-based localization using direct 2D to-3D matching]** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6162870)  Sattler T. ICCV, 2011
+
 :radio_button: **[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]** [[Paper]](https://www.cs.unc.edu/~jtprice/papers/accv_2016_schoenberger.pdf)  ACCV, 2016
 
 :radio_button: **[Improving image-based localization by active correspondence search]**[[Paper]](https://graphics.rwthaachen.de/media/papers/sattler_eccv12_preprint_1.pdf])  ECCV, 2012
@@ -43,5 +45,5 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="Pose">Pose Estimation</h1>
 
-:radio_button: **[Fast image-based localization using direct 2D to-3D matching]** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6162870)  ICCV, 2011
+
 
