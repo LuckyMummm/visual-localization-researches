@@ -4,7 +4,7 @@
 
 - **作者：**Torsten Sattler, Bastian Leibe, Leif Kobbelt
 - **会议/期刊**：ICCV 2011
-- **TL;DR：** 提出了一种直接找2d-3d的匹配方法，用来替代之前的image retrieval。
+- **TL;DR：** 提出了一种直接找2d-3d的匹配方法（vocabulary based），用来替代之前的image retrieval。（效率比tree-based好，但是效果不如）
 
 
 
@@ -14,7 +14,7 @@
 
   基于image retrieval的方法能检测出很多特征点，但是inlier点的数量只占特征点数量的很少一部分，所有浪费了特别多匹配时间。那能不能快速找到那些存在对应3D的2D点呢？
 
-- 这篇文章就提出了一个Direct 2D-3D的匹配方法，如下图所示。所谓direct的方式就是不通过中间结构（比如说image retrieval），直接拿有descriptor信息的2D特征点和有descriptor信息的3D特征点做匹配。
+- 这篇文章就提出了一个Direct 2D-3D的匹配方法，如下图所示。所谓direct的方式就是不通过中间结构（比如说image retrieval），直接拿有descriptor信息的2D特征点和有descriptor信息的3D特征点做匹配。相对于每一个point都对应到word，然后图片的每一个feature也对应到word，然后找feature有公共单词的point。
 
   ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gdrxjlijucj30te07ewhy.jpg)
 

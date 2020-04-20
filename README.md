@@ -27,9 +27,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :heavy_check_mark: **[Real-time self-localization from panoramic images on mobile devices]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf) Clemens Arth. ISMAR, 2011
 
-:radio_button: **[Parallel Tracking and Mapping on a Camera Phone]** [[Paper]]  ISMAR, 2009
+:heavy_check_mark: **[Parallel Tracking and Mapping on a Camera Phone]**  ISMAR, 2009
 
-:radio_button: **[Pose Tracking from Natural Features on Mobile Phones]** [[Paper]]  ISMAR, 2008
+:heavy_check_mark: **[Pose Tracking from Natural Features on Mobile Phones]**  ISMAR, 2008
 
 :radio_button: **[Scalable 6-DOF Localization on Mobile Devices]** [[Paper]](https://www.graphics.rwth-aachen.de/media/papers/ECCV14_preprint_0XcmhCx.pdf) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sven Middelberg, Torsten Sattler. ECCV, 2014
 
@@ -43,7 +43,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :radio_button: **[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]** [[Paper]](https://www.cs.unc.edu/~jtprice/papers/accv_2016_schoenberger.pdf)  ACCV, 2016
 
-:radio_button: **[Improving image-based localization by active correspondence search]**[[Paper]](https://graphics.rwthaachen.de/media/papers/sattler_eccv12_preprint_1.pdf])  ECCV, 2012
+:heavy_check_mark: **[Improving image-based localization by active correspondence search]**[[Paper]](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)[[code]](http://www.graphics.rwth-aachen.de/localization)  Sattler T. ECCV, 2012
 
 
 
