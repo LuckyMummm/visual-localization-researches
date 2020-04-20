@@ -16,7 +16,23 @@
 
   这个是在还在3G时代的iPhone上做的一个slam系统的尝试，但是提出了一个比较有意义的结构，就是**PTAM**，就是说用两个线程分别来做帧间的tracking以及mapping。这一点可以参考orb-slam，估计后面的slam系统都沿用了这个设计。
 
+- **用于室外location recognition的工作**
 
+  - Li, Y., Snavely, N., Huttenlocher, D., Fua, P.: Worldwide Pose Estimation Using 3D Point Clouds. In: ECCV (2012)
+
+**导航**
+
+- Irschara, A., Zach, C., Frahm, J.M., Bischof, H.: From Structure-from-Motion Point Clouds to Fast Location Recognition. In: CVPR (2009)
+
+- 针对这个任务提了一些优化策略：simpler descriptor等等，14年之前的SOTA模型
+
+  Lim, H., Sinha, S.N., Cohen, M.F., Uyttendaele, M.: Real-Time Image-Based 6-DOF Localization in Large-Scale Environments. In: CVPR (2012)
+
+
+**大场景下的定位**（每8m * 5m地图大小增加100M）
+
+- Lhuillier, M.: Fusion of GPS and Structure-from-Motion Using Constrained Bundle Adjustments. In: CVPR (2011)
+- Ventura, J., Hollerer, T.: Wide-Area Scene Mapping for Mobile Visual Tracking. In: ISMAR (2012)
 
 
 
