@@ -31,7 +31,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :heavy_check_mark: **[Pose Tracking from Natural Features on Mobile Phones]**  ISMAR, 2008
 
-:radio_button: **[Scalable 6-DOF Localization on Mobile Devices]** [[Paper]](https://www.graphics.rwth-aachen.de/media/papers/ECCV14_preprint_0XcmhCx.pdf) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sven Middelberg, Torsten Sattler. ECCV, 2014
+:heavy_check_mark: **[Scalable 6-DOF Localization on Mobile Devices]** [[Paper]](https://www.graphics.rwth-aachen.de/media/papers/ECCV14_preprint_0XcmhCx.pdf) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sven Middelberg, Torsten Sattler. ECCV, 2014
 
 
 
