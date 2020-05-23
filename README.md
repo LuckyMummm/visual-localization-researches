@@ -33,7 +33,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 :heavy_check_mark: **[Scalable 6-DOF Localization on Mobile Devices]** [[Paper]](https://www.graphics.rwth-aachen.de/media/papers/ECCV14_preprint_0XcmhCx.pdf) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sven Middelberg, Torsten Sattler. ECCV, 2014
 
+:heavy_check_mark: **[Lost Shopping! Monocular Localization in Large Indoor Spaces]** [[Paper]](https://www.cs.utoronto.ca/~fidler/papers/wangICCV15.pdf) Shenlong Wang, Sanja Fidler. ICCV Oral, 2015
 
+​	通过单张图片和商场的平面图来实现定位，不需要SfM，而是需要文字检测辅助以及标注数据。
 
 <h1 id="Retrieval">Retrieval Methods</h1>
 
