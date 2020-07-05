@@ -43,7 +43,7 @@ See the forward way:
 
 - between layers:
 
-  - "m" means edges, $$`\varepsilon`$$ = $$`\varepsilon_{self}`$$ when layer is odd and   $$`\varepsilon`$$ = $$`\varepsilon_{cross}`$$ when layer is even.
+  - "m" means edges, $`\varepsilon`$ = $`\varepsilon_{self}`$ when layer is odd and   $`\varepsilon`$ = $`\varepsilon_{cross}`$ when layer is even.
 
   ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggga0e6gipj30p003o74j.jpg)
 
@@ -55,14 +55,14 @@ See the forward way:
 
     ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gggad7h4nij30m60803z9.jpg)
 
-  - Then $$`\alpha_{ij}=Softmax_j(q_i^T k_j)`$$ . Just like using key to query a database.
+  - Then $`\alpha_{ij}=Softmax_j(q_i^T k_j)`$ . Just like using key to query a database.
 
-  By using the forward path above, we can get the representation of local feature at a certain layer, called $$`f_i`$$.
+  By using the forward path above, we can get the representation of local feature at a certain layer, called $`f_i`$.
 
 - **Step4.** **Optimal matching layer**
 
   - Once we got the representation vector of local feature, we can build a score matrix by inner product.
-  - Because there are still some contraines in graph matching like one node just match one. So we need to find a assignment $$`P`$$ to let $$`\sum_{i,j}S_{i,j}P_{i,j}`$$ achieve largest. This is equivalent to solving a linear assignment problem. (classical bipartite matching problem)
+  - Because there are still some contraines in graph matching like one node just match one. So we need to find a assignment $`P`$ to let $`\sum_{i,j}S_{i,j}P_{i,j}`$ achieve largest. This is equivalent to solving a linear assignment problem. (classical bipartite matching problem)
   - By using a differential method which called Sinkhorn Algorithm, we can achieve that.
   - (another trick is dustbin row and column to collect those local features which can't find proper matching node)
 
@@ -72,8 +72,8 @@ See the forward way:
 
     ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gggavywx6pj30nk07e3z2.jpg)
 
-    - $$`M`$$ is set of groud truth matches
-    - $$`I`$$ and $$`J`$$ are set of unmatched local feature
+    - $`M`$ is set of groud truth matches
+    - $`I`$ and $`J`$ are set of unmatched local feature
 
 
 
